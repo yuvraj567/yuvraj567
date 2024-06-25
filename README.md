@@ -1,5 +1,3 @@
-![logo](https://github.com/AvinashChourasia/AvinashChourasia/blob/main/Wallpaper.jpg)
-
 ###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yuvraj Singh </h1>
 <h3 align="center">✨✨Unlocking the Digital World: Coder in Action✨✨</h3>
 
@@ -7,32 +5,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=28&center=true&vCenter=true&width=600&height=100&lines=DSA+Guy+And+Competitive+Programmer;FullStack+Web+Developer;"></a>
 </p>
 
-<p align="center">
-<h4 align="center" width="100%">Profile Views</h4>
-<p align="center">
-<img src="https://profile-counter.glitch.me/{YuvrajSingh}/count.svg" alt="Visitor Count" />
-</p>
-</p>
 <img align="right" alt="PAC MAN" width="300" height="300" src="https://andrewmayneblog.files.wordpress.com/2023/03/maze_solution_pacman_pellets.gif?w=740&zoom=2">
 
-- 💬 Ask me about *CPP, DSA, OOPs, DBMS, HTML, CSS, JavaScript, React, Operating System, MongoDB, Node.js, Express.js*
+- 💬 Ask me about *CPP, DSA, OOPs, DBMS, OS, JavaScript, TypeScript, React.js, Next.js, MongoDB, Node.js, Express.js*
 
 - 📫 How to reach me *yuvraj8847.11@gmail.com*
-
-- 📄 Know about me by my [resume](https://drive.google.com/file/d/1ufgzTlFnHYKy_u--dcOgZ--iPhMD1ZY3/view?usp=sharing)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuvraj-singh-30164721b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-singh-429466202" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eternal_blue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eternal_blue" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yuvv_raj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yuvv_raj7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yuvv_raj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yuvv_raj7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yuvrj123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yuvrj123" height="30" width="40" /></a>
 </p>
-
-
-## 🛠️ My Skills
 
 ### 👉 Programming languages
 <p align="left"> 
@@ -92,11 +76,7 @@
 &emsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   </p>
-  <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj567&show_icons=true&locale=en&layout=compact" alt="yuvraj567" /></p>
 
