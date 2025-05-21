@@ -1,83 +1,65 @@
-###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yuvraj Singh </h1>
-<h3 align="center">✨✨Unlocking the Digital World: Coder in Action✨✨</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=28&center=true&vCenter=true&width=600&height=100&lines=DSA+Guy+And+Competitive+Programmer;FullStack+Web+Developer;"></a>
-</p>
+# 👋 Hii, I'm Yuvraj Singh
+✦ **Full Stack Developer | Competitive Programmer | Tech Enthusiast** ✦  
 
-<img align="right" alt="PAC MAN" width="300" height="300" src="https://andrewmayneblog.files.wordpress.com/2023/03/maze_solution_pacman_pellets.gif?w=740&zoom=2">
-
-- 💬 Ask me about *CPP, DSA, OOPs, DBMS, OS, JavaScript, TypeScript, React.js, Next.js, MongoDB, Node.js, Express.js*
-
-- 📫 How to reach me *yuvraj8847.11@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yuvraj-singh-30164721b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-singh-429466202" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eternal_blue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eternal_blue" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yuvv_raj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yuvv_raj7" height="30" width="40" /></a>
-</p>
-
-### 👉 Programming languages
-<p align="left"> 
-&emsp;
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-&emsp;
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-&emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-&emsp;
-</p>
+---
+<table>
+  <tr>
+    <td align="left" width="70%">
+      <p>
+        📍 <strong>Kolkata, India</strong><br>
+        📧 <strong>yuvraj8847.11@gmail.com</strong><br>
+      </p>
+    </td>
+    <td width="30%">
+      <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="120" alt="Code animation">
+    </td>
+  </tr>
+</table>
 
 
-### 👉 Libraries and Frameworks
-
-<p align="left"> 
-&emsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-&emsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   &emsp; 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-   &emsp; 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-   &emsp; 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-   &emsp; 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
-&emsp;
- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-&emsp;
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-&emsp;
- </p>
+---
 
 
-### 👉 Databases & Cloud Hosting
-  
-<p align="left">
-  &emsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  &emsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  &emsp;
-  <a href="https://www.github.com"><img alt="GitHub Pages" width="40" height="40" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg"></a>
- </p>
+## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗔𝗿𝘀𝗲𝗻𝗮𝗹
 
- ### 👉 Software & Tools
- 
-<p>
-   &emsp;
-   <a href="#" ><img alt="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"></a>
-   &emsp;
-   <a href="https://www.canva.com/"><img alt="Canva" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40"></a>
-   &emsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-&emsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  </p>
+| Category        | Technologies                                                                 |
+|-----------------|------------------------------------------------------------------------------|
+| 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀      | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql) |
+| 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱       | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux) |
+| 𝗕𝗮𝗰𝗸𝗲𝗻𝗱        | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) |
+| 𝗧𝗼𝗼𝗹𝘀          | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel) |
 
-<div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj567&show_icons=true&locale=en&layout=compact" alt="yuvraj567" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj567&" alt="yuvraj567" /></p>
+## 🏆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀 & 𝗛𝗼𝗻𝗼𝗿𝘀
+
+🏅 **TCS CodeVita 2023** – Global Rank **123** out of **136,054** participants  
+🥈 **Meta Hacker Cup 2024** – World Rank **2,040**  
+👑 **LeetCode Knight** – Rating **1950+**, ranked in the **Top 3% Globally**  
+⭐ **CodeChef 4-Star Coder** – Rating **1805**  
+📚 **GeeksforGeeks** – Coding Score **1500+**
+
+---
+
+## 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+
+🎓 **B.Tech CSE** - Institute of Engineering & Management (CGPA: 9.27/10)  
+📜 **NPTEL Star** - Algorithms & Problem Solving  
+☁️ **AWS Certified** - Cloud Practitioner Essentials  
+
+---
+
+## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲  🌐
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yuvraj123)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/Eternal_Blue)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yuvraj567)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yuvv_raj7)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yuvraj567&label=Profile+Views&color=0e75b6&style=flat)
+
+</div>
